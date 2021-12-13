@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_12.1K</name>
+   <tag></tag>
+   <elementGuidId>824b7983-2917-4596-ae48-745418adc92b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/main/div/div/div/div[2]/div/div/div/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-jWojfa.geiOLG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jWojfa geiOLG</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12.1K</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;_1Rzf5&quot;]/main[@class=&quot;sc-esjQYD ggtOtX&quot;]/div[@class=&quot;sc-kIPQKe jzTGTe&quot;]/div[@class=&quot;uvUyK sc-eXEjpC kgwxZq&quot;]/div[1]/div[@class=&quot;_1cCXb sc-kIPQKe jzTGTe&quot;]/div[@class=&quot;_2H2a1 sc-eXEjpC hEPYJG&quot;]/div[@class=&quot;_2qxn8&quot;]/div[@class=&quot;sc-AnqlK jcoZdv&quot;]/div[@class=&quot;sc-iGPElx cUSSGR&quot;]/div[@class=&quot;sc-hgHYgh kWCQqP&quot;]/span[@class=&quot;sc-eInJlc cMocIE&quot;]/span[@class=&quot;sc-jWojfa geiOLG&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/main/div/div/div/div[2]/div/div/div/div/div/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRO'])[1]/following::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[2]/preceding::span[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='instagram.com/Kerbcrawlergh0st/'])[1]/preceding::span[17]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>
